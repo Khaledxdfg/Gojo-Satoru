@@ -19,10 +19,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['0952556062']
-global.premium = ['0952556062']
-global.ownernomer = '0952556062'
-global.ownername = '( يويتشي )'
+global.owner = ['+963952556062']
+global.premium = ['+963952556062']
+global.ownernomer = '+963952556062'
+global.ownername = '( يويتشي عمك )'
 global.botname = '( بـوت غـوجـو )'
 global.footer = '( غـوجـو )'
 global.ig = 'https://github.com/nexusNw'
@@ -37,7 +37,7 @@ global.sp = '⭔'
 global.mess = {
     success: '✓',
     admin: '*「 هـذا الامـر فـقـط لـ المـشـرفـيـن 」◣*',
-    botAdmin: '*「 اعـطـنـي إشـراف لـتـفـعـيـل  الامـر 」◣*',
+    botAdmin: '*「 اعـطـنـي إشـراف لـتـفـعـيـل الامـر 」◣*',
     owner: '*「 هـذا الامـر فـقـط لـ الـمـالـك 」◣*',
     group: '*「 هـذا الامـر فـي الـمـجـمـوعـات فـقـط 」◣*',
     private: '*「 هـذا الامـر فـي الـخـاص فـقـط 」◣*',
